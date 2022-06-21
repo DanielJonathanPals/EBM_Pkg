@@ -3,6 +3,11 @@ uuid = "62328733-1825-4cda-9d2e-641b398c2b1c"
 authors = ["Daniel Pals <Daniel.Pals@tum.de>"]
 version = "0.1.0"
 
+[deps]
+CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
+DifferentialEquations = "0c46a032-eb83-5123-abaf-570d42b7fbaa"
+StructEquality = "6ec83bb0-ed9f-11e9-3b4c-2b04cb4e219c"
+
 [compat]
 julia = "1.7.2"
 
