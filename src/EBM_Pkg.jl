@@ -1,5 +1,6 @@
 module EBM_Pkg
 
-# Write your package code here.
+    export SimplestModel
+    include("PredefinedEBMs.jl")
 
 end
